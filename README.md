@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ### Run the app
 Make sure venv is started (`source ~/.virtualenvs/flask-api-boilerplate/bin/activate`)  
 ```
-python manage.py
+python manage.py run
 ```
 
 
